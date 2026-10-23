@@ -24,4 +24,4 @@ npm init-y
 npm install express
 Execute a aplicação:
 node app.js
-vidor rodando em http://localhost:3000
+
